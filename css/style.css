@@ -1,0 +1,161 @@
+.font--lato{font-family:"Lato", sans-serif;}*{outline:0;margin:0;padding:0;}body{font-family:Lato, Arial, Verdana, sans-serif;color:#e5e5e5;font-size:12px;}h1,h2{font-family:'Lato', sans-serif;font-weight:300;margin:0 0 15px;}h1{font-size:36px;letter-spacing:-1px;line-height:100%;font-weight:600;}h2{font-size:24px;}h3{font-size:20px;font-weight:500;}p{margin:0 0 15px;}a{color:#3e3e3e;text-decoration:none;}.clear{clear:both;}.wrap{width:100%;z-index:10;position:relative;margin:0 auto;padding:0;}.section{width:100%;z-index:10;position:relative;min-height:650px;margin:0 auto;padding:0;}.inner{width:1050px;position:relative;min-height:50px;font-size:18px;font-family:'Lato', sans-serif;font-weight:300;margin:0 auto;padding:30px 0;}.inner:after{content:"";display:table;clear:both;}.subMenu{height:62px;z-index:1000;width:100%;background:#0b0b0b;}.subMenu .inner{font-weight:400;margin:0 auto;padding:0;}.subNavLogo{float:left;margin:0;padding:21px 1% 0 0;}.borderLeft{border-left:1px solid #161616;}.borderRight{border-right:1px solid #161616;}.subNavBtn{display:block;height:35px;width:auto;float:left;text-decoration:none;font-weight:700;font-size:14px;text-align:center;color:#e0e0e0;margin:0;padding:21px 1.5% 0;}.end{margin:0;}.fb{float:right;background:url("../images/fb.png") no-repeat;display:block;width:36px;height:36px;border:none !important;margin:13px 2px 0;}.tw{float:right;background:url("../images/twitter.png") no-repeat;display:block;width:36px;height:36px;border:none !important;margin:13px 2px 0;}.email{float:right;background:url("../images/email.png") no-repeat;display:block;width:36px;height:36px;border:none !important;margin:13px 2px 0;}#menuBtn{visibility:hidden;}.sTop{background-image:url("../images/tlo.jpg");background-size:100% 100%;background-repeat:no-repeat;height:0;min-height:388px;color:#071628;}.s2 a{color:#fff;}.item{float:left;width:20%;margin:20px 2.5%;}.mieszek{margin:auto;background-image:url("../images/mieszki2.jpg");background-size:100% 100%;background-repeat:no-repeat;width:270px;height:162px;position:relative;}footer{background:#0b0b0b;min-height:140px;position:absolute;bottom:0;width:100%;color:#fff;}#lewo{float:left;width:30%;font-size:14px;font-weight:600;}#srodek{text-align:center;float:left;width:40%;}#prawo{text-align:right;float:left;width:30%;font-size:14px;font-weight:600;}.text60{color:#5aa0f7;font-size:60px;font-weight:700;}.text36{color:#071628;font-size:36px;font-weight:500;}.text18top{color:#071628;font-size:18px;width:70%;}.center{text-align:center;}.margin{padding-left:70px;padding-right:70px;padding-top:30px;}.tlo{background:#2c7adb;line-height:28px;font-weight:500;font-size:20px;position:absolute;right:5px;top:5px;padding:0 5px;}.buttonFOOTER{border:2px solid #fff;border-radius:20px;color:#fff;font-size:14px;font-weight:600;padding:5px 10px;}.buttonFOOTER:hover{border:2px solid #fff;border-radius:20px;color:#0b0b0b;background:#fff;font-size:14px;font-weight:600;padding:5px 10px;}.buttonOFERTA{border:2px solid #fff;border-radius:10px;color:#fff;font-size:14px;font-weight:600;padding:5px 10px;}.buttonOFERTA:hover{border:2px solid #2c7adb;border-radius:10px;color:#0d1724;background:#2c7adb;font-size:14px;font-weight:600;padding:5px 10px;}.left{float:left;}.right{float:right;}.photoW240{width:240px;height:auto;border:4px solid #92c0f9;border-radius:5px;margin:5.25px;}.photoW330{width:327px;height:auto;border:4px solid #92c0f9;border-radius:5px;margin:5.25px;}.subMenu a:hover,.active{color:#2c7adb;border-bottom:6px solid #2c7adb;}.fb:hover,.tw:hover,.email:hover{background-position:0 -36px;border:none !important;}.s1,.s4{background:#fff;color:#071628;}.s2,.s5{background:#0c1622;color:#fff;}.e-mail,.telefon{height:14px;}.inne{width:100%;float:left;margin-top:50px;}.tabela{margin:auto;border:1px solid;border-radius:20px;width:270px;}.tg{border-collapse:collapse;width:100%;}.tg-r31x{padding:10px;}.tg tr{border-bottom:1px solid;}.tg tr:last-child{border:0;}@media (min-width:1100px){.button{border:4px solid #071628;border-radius:20px;color:#071628;padding:5px 10px;font-size:24px;font-weight:600}.button:hover{border:4px solid #071628;border-radius:20px;color:#fff;background:#071628;padding:5px 10px;font-size:24px;font-weight:600}.menuShow{list-style:none;display:inline !important}}@media (max-width:1100px) and (min-width:1000px){.sTop{background-image:url("../images/tlo.jpg");background-size:100% 100%;background-position:center;background-repeat:no-repeat;height:0px;min-height:388px;color:#071628}.inner{width:940px;margin:0 auto;position:relative;font-size:16px;font-family:'Lato',sans-serif;font-weight:300}.button{border:4px solid #071628;border-radius:20px;color:#071628;padding:5px 10px;font-size:14px;font-weight:600}.button:hover{border:4px solid #071628;border-radius:20px;color:#fff;background:#071628;padding:5px 10px;font-size:14px;font-weight:600}.subNavLogo{float:left;margin:0px 0px 0 0;padding:21px 1% 0 0}#menuBtn{border:0;background:#0b0b0b;margin:13px 0 0 0;visibility:visible;float:right}#menuBtn >div{width:30px;height:5px;background:#fff;margin:4px 4px 4px 4px;border-radius:5px}#menuBtn:hover >div{background:#2c7adb}.borderLeft{border-left:none}.borderRight{border-right:none}.menuShow{position:absolute;right:0px;top:61px;background-color:#0b0b0b;width:20%;list-style:none;display:none}.subNavBtn{display:block;height:15px;width:100%;float:left;text-decoration:none;font-weight:700;font-size:14px;padding:10px 0 10px 0;text-align:center;color:#e0e0e0;border-bottom:6px solid  #0b0b0b}.subMenu a:hover{color:#2c7adb;border-bottom:6px solid #2c7adb}.active{color:#2c7adb;border-bottom:6px solid #2c7adb}.fb{float:right;background:url("../images/fb.png") no-repeat;display:block;width:36px;height:36px;margin:5px 2% 0 16%;border:none !important}.fb:hover{background-position:0 -36px;border:none !important}.tw{float:right;background:url("../images/twitter.png") no-repeat;display:block;width:36px;height:36px;margin:5px 16% 0 2%;border:none !important}.tw:hover{background-position:0 -36px;border:none !important}.email{float:right;background:url("../images/email.png") no-repeat;display:block;width:36px;height:36px;margin:5px 2% 10px 2%;border:none !important}.email:hover{background-position:0 -36px;border:none !important}.item{float:left;width:28%;margin:20px 2.5%}.mieszek{background-image:url("../images/mieszki2.jpg");background-size:100% 100%;background-repeat:no-repeat;width:270px;height:162px;position:relative;margin:auto}.cytat{width:30px;height:auto}.margin{padding-left:35px;padding-right:35px;padding-top:10px}.text60{color:#5aa0f7;font-size:40px;font-weight:700}.text36{color:#071628;font-size:25px;font-weight:500}.text18top{color:#071628;font-size:16px;width:70%}#lewo{float:left;width:30%;font-size:10px;font-weight:600}#srodek{text-align:center;float:left;width:40%}#prawo{text-align:right;float:left;width:30%;font-size:14px;font-weight:600}.buttonFOOTER{border:2px solid #fff;border-radius:20px;color:#fff;padding:5px 10px;font-size:15px;font-weight:600}.buttonFOOTER:hover{border:2px solid #fff;border-radius:20px;color:#0b0b0b;background:#fff;padding:5px 10px;font-size:15px;font-weight:600}.photoW240{max-width:200px}.photoW330{max-width:274px}}@media (max-width:1000px) and (min-width:800px){.sTop{background-image:url("../images/tlo.jpg");background-size:100% 100%;background-position:center;background-repeat:no-repeat;height:0px;min-height:388px;color:#071628}.inner{width:740px;margin:0 auto;position:relative;font-size:16px;font-family:'Lato',sans-serif;font-weight:300}.button{border:4px solid #071628;border-radius:20px;color:#071628;padding:5px 10px;font-size:14px;font-weight:600}.button:hover{border:4px solid #071628;border-radius:20px;color:#fff;background:#071628;padding:5px 10px;font-size:14px;font-weight:600}.subNavLogo{float:left;margin:0px 0px 0 0;padding:21px 1% 0 0}#menuBtn{border:0;background:#0b0b0b;margin:13px 0 0 0;visibility:visible;float:right}#menuBtn >div{width:30px;height:5px;background:#fff;margin:4px 4px 4px 4px;border-radius:5px}#menuBtn:hover >div{background:#2c7adb}.borderLeft{border-left:none}.borderRight{border-right:none}.menuShow{position:absolute;right:0px;top:61px;background-color:#0b0b0b;width:30%;list-style:none;display:none}.subNavBtn{display:block;height:15px;width:100%;float:left;text-decoration:none;font-weight:700;font-size:14px;padding:10px 0 10px 0;text-align:center;color:#e0e0e0;border-bottom:6px solid  #0b0b0b}.subMenu a:hover{color:#2c7adb;border-bottom:6px solid #2c7adb}.active{color:#2c7adb;border-bottom:6px solid #2c7adb}.fb{float:right;background:url("../images/fb.png") no-repeat;display:block;width:36px;height:36px;margin:5px 2% 0 20%;border:none !important}.fb:hover{background-position:0 -36px;border:none !important}.tw{float:right;background:url("../images/twitter.png") no-repeat;display:block;width:36px;height:36px;margin:5px 20% 0 2%;border:none !important}.tw:hover{background-position:0 -36px;border:none !important}.email{float:right;background:url("../images/email.png") no-repeat;display:block;width:36px;height:36px;margin:5px 2% 10px 2%;border:none !important}.email:hover{background-position:0 -36px;border:none !important}.item{float:left;width:45%;margin:20px 2.5%}.mieszek{background-image:url("../images/mieszki2.jpg");background-size:100% 100%;background-repeat:no-repeat;width:270px;height:162px;position:relative;margin:auto}.cytat{width:30px;height:auto}.margin{padding-left:35px;padding-right:35px;padding-top:10px}.text60{color:#5aa0f7;font-size:40px;font-weight:700}.text36{color:#071628;font-size:25px;font-weight:500}.text18top{color:#071628;font-size:16px;width:70%}#lewo{float:left;width:30%;font-size:10px;font-weight:600}#srodek{text-align:center;float:left;width:40%}#prawo{text-align:right;float:left;width:30%;font-size:14px;font-weight:600}.buttonFOOTER{border:2px solid #fff;border-radius:20px;color:#fff;padding:5px 10px;font-size:15px;font-weight:600}.buttonFOOTER:hover{border:2px solid #fff;border-radius:20px;color:#0b0b0b;background:#fff;padding:5px 10px;font-size:15px;font-weight:600}.photoW330{max-width:200px}}@media (max-width:800px) and (min-width:500px){.sTop{background-image:url("../images/tlo.jpg");background-size:350% 100%;background-position:center;background-repeat:no-repeat;height:0px;min-height:388px;color:#071628}.inner{width:440px;margin:0 auto;position:relative;font-size:14px;font-family:'Lato',sans-serif;font-weight:300}.button{border:4px solid #071628;border-radius:20px;color:#071628;padding:5px 10px;font-size:14px;font-weight:600}.button:hover{border:4px solid #071628;border-radius:20px;color:#fff;background:#071628;padding:5px 10px;font-size:14px;font-weight:600}.subNavLogo{float:left;margin:0px 0px 0 0;padding:21px 1% 0 0}#menuBtn{border:0;background:#0b0b0b;margin:13px 0 0 0;visibility:visible;float:right}#menuBtn >div{width:30px;height:5px;background:#fff;margin:4px 4px 4px 4px;border-radius:5px}#menuBtn:hover >div{background:#2c7adb}.borderLeft{border-left:none}.borderRight{border-right:none}.menuShow{position:absolute;right:0px;top:61px;background-color:#0b0b0b;width:50%;list-style:none;display:none}.subNavBtn{display:block;height:15px;width:100%;float:left;text-decoration:none;font-weight:700;font-size:14px;padding:10px 0 10px 0;text-align:center;color:#e0e0e0;border-bottom:6px solid  #0b0b0b}.subMenu a:hover{color:#2c7adb;border-bottom:6px solid #2c7adb}.active{color:#2c7adb;border-bottom:6px solid #2c7adb}.fb{float:right;background:url("../images/fb.png") no-repeat;display:block;width:36px;height:36px;margin:5px 2% 0 20%;border:none !important}.fb:hover{background-position:0 -36px;border:none !important}.tw{float:right;background:url("../images/twitter.png") no-repeat;display:block;width:36px;height:36px;margin:5px 20% 0 2%;border:none !important}.tw:hover{background-position:0 -36px;border:none !important}.email{float:right;background:url("../images/email.png") no-repeat;display:block;width:36px;height:36px;margin:5px 2% 10px 2%;border:none !important}.email:hover{background-position:0 -36px;border:none !important}.item{float:left;width:100%;margin:20px 2.5%}.mieszek{background-image:url("../images/mieszki2.jpg");background-size:100% 100%;background-repeat:no-repeat;width:270px;height:162px;position:relative;margin:auto}.cytat{width:30px;height:auto}.margin{padding-left:35px;padding-right:35px;padding-top:10px}.text60{color:#5aa0f7;font-size:30px;font-weight:700}.text36{color:#071628;font-size:20px;font-weight:500}.text18top{color:#071628;font-size:14px;width:90%;}#lewo{float:left;width:50%;font-size:10px;font-weight:600}#srodek{text-align:center;float:left;width:50%}#srodek >img{width:100%;height:auto}#prawo{display:none}.buttonFOOTER{border:2px solid #fff;border-radius:20px;color:#fff;padding:5px 10px;font-size:10px;font-weight:600}.buttonFOOTER:hover{border:2px solid #fff;border-radius:20px;color:#0b0b0b;background:#fff;padding:5px 10px;font-size:10px;font-weight:600}img{max-width:330px}}@media (max-width:500px){.sTop{background-image:url("../images/tlo.jpg");background-size:350% 100%;background-position:center;background-repeat:no-repeat;height:0px;min-height:388px;color:#071628}.inner{width:290px;margin:0 auto;position:relative;font-size:14px;font-family:'Lato',sans-serif;font-weight:300}.button{border:4px solid #071628;border-radius:20px;color:#071628;padding:5px 10px;font-size:14px;font-weight:600}.button:hover{border:4px solid #071628;border-radius:20px;color:#fff;background:#071628;padding:5px 10px;font-size:14px;font-weight:600}.subNavLogo{float:left;margin:0px 0px 0 0;padding:21px 1% 0 0;width:60%;height:auto}#menuBtn{border:0;background:#0b0b0b;margin:13px 0 0 0;visibility:visible;float:right}#menuBtn >div{width:30px;height:5px;background:#fff;margin:4px 4px 4px 4px;border-radius:5px}#menuBtn:hover >div{background:#2c7adb}.borderLeft{border-left:none}.borderRight{border-right:none}.menuShow{position:absolute;right:0px;top:61px;background-color:#0b0b0b;width:50%;list-style:none;display:none}.subNavBtn{display:block;height:20px;width:100%;float:left;text-decoration:none;font-weight:700;font-size:14px;padding:10px 0 10px 0;text-align:center;color:#e0e0e0;border-bottom:6px solid  #0b0b0b}.subMenu a:hover{color:#2c7adb;border-bottom:6px solid #2c7adb}.active{color:#2c7adb;border-bottom:6px solid #2c7adb}.fb{float:right;background:url("../images/fb.png") no-repeat;display:block;width:36px;height:36px;margin:5px 2% 0 8%;border:none !important}.fb:hover{background-position:0 -36px;border:none !important}.tw{float:right;background:url("../images/twitter.png") no-repeat;display:block;width:36px;height:36px;margin:5px 8% 0 2%;border:none !important}.tw:hover{background-position:0 -36px;border:none !important}.email{float:right;background:url("../images/email.png") no-repeat;display:block;width:36px;height:36px;margin:5px 2% 10px 2%;border:none !important}.email:hover{background-position:0 -36px;border:none !important}.item{float:left;width:100%;margin:20px 2.5%}.mieszek{background-image:url("../images/mieszki2.jpg");background-size:100% 100%;background-repeat:no-repeat;width:270px;height:162px;position:relative;margin:auto}.cytat{width:30px;height:auto}.margin{padding-left:35px;padding-right:35px;padding-top:10px}.text60{color:#5aa0f7;font-size:30px;font-weight:700}.text36{color:#071628;font-size:20px;font-weight:500}.text18top{color:#071628;font-size:14px;width:100%;}#lewo{float:left;width:50%;font-size:10px;font-weight:600}#srodek{text-align:center;float:left;width:50%}#srodek >img{width:100%;height:auto}#prawo{display:none}.buttonFOOTER{border:2px solid #fff;border-radius:20px;color:#fff;padding:5px 10px;font-size:10px;font-weight:600}.buttonFOOTER:hover{border:2px solid #fff;border-radius:20px;color:#0b0b0b;background:#fff;padding:5px 10px;font-size:10px;font-weight:600}img{max-width:260px}}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Lato Hairline'), local('Lato-Hairline'), url(https://fonts.gstatic.com/s/lato/v11/eFRpvGLEW31oiexbYNx7Y_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Lato Hairline'), local('Lato-Hairline'), url(https://fonts.gstatic.com/s/lato/v11/GtRkRNTnri0g82CjKnEB0Q.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v11/dPJ5r9gl3kK6ijoeP1IRsvY6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v11/EsvMC5un3kjyUhB9ZEPPwg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v11/UyBMtLsHKBKXelqf4x7VRQ.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v11/1YwB1sO8YE1Lyjf12WNiUA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v11/ObQr5XYcoH0WBoUxiaYK3_Y6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v11/H2DMvhDLycM56KNuAtbJYA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Lato Black'), local('Lato-Black'), url(https://fonts.gstatic.com/s/lato/v11/R4a6fty3waPci7C44H8AjvY6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Lato Black'), local('Lato-Black'), url(https://fonts.gstatic.com/s/lato/v11/tI4j516nok_GrVf4dhunkg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Lato Hairline Italic'), local('Lato-HairlineItalic'), url(https://fonts.gstatic.com/s/lato/v11/muRcAtdNYlnTj3NeuakxChTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Lato Hairline Italic'), local('Lato-HairlineItalic'), url(https://fonts.gstatic.com/s/lato/v11/9TBVFLzQ3GUZLG8FZ4yrEfesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(https://fonts.gstatic.com/s/lato/v11/XNVd6tsqi9wmKNvnh5HNEBJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(https://fonts.gstatic.com/s/lato/v11/2HG_tEPiQ4Z6795cGfdivFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v11/YMOYVM-eg6Qs9YzV9OSqZfesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v11/PLygLKRVCQnA5fhu3qk5fQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v11/AcvTq8Q0lyKKNxRlL28RnxJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v11/HkF_qI1x_noxlxhrhMQYEFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Lato Black Italic'), local('Lato-BlackItalic'), url(https://fonts.gstatic.com/s/lato/v11/81X-1TO5y4aMK2PPy9kFwxJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Lato Black Italic'), local('Lato-BlackItalic'), url(https://fonts.gstatic.com/s/lato/v11/VNUH7ZAcagYBWsAiBBCEY1tXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
